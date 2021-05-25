@@ -1,1 +1,1 @@
-# github.io
+# CLEVO N970 Hackintosh
